@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/trentm/python-markdown2/commit/0ea342a56bf43f96e0c045da63e550cef7083f3f",
       "git:hexsha": "0ea342a56bf43f96e0c045da63e550cef7083f3f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/trentm/python-markdown2/commit/6d11f0f1ef9e112faeaf8028f631d2f825f991a6",
