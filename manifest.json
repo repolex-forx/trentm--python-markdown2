@@ -1065,6 +1065,33 @@
       ],
       "ast": [
         "aggregate/ast/6817970628afeb91c7e4ae5f76777b81514d6475/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/6817970628afeb91c7e4ae5f76777b81514d6475.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pygments",
+          "ecosystem": "PYPI",
+          "version": "2.21.0",
+          "githubOrg": "pygments",
+          "githubRepo": "pygments",
+          "githubCommit": "a43b45dcf081b6010c6ab4428f149f7f6d2499c4",
+          "githubTag": "2.21.0",
+          "githubUrl": "https://github.com/pygments/pygments",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/pygments/lexers/__init__.py"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "3895f9829fc0e51882981773a823a658eb1d1636",
+          "githubTag": "v84.2.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/_distutils/core.py"
+        }
       ]
     }
   ],
